@@ -4,8 +4,8 @@
 
 ## 官方插件
 
-贴吧云灌水 (Github)[https://github.com/MoeNetwork/wmzz_post]
+贴吧云灌水 [Github](https://github.com/MoeNetwork/wmzz_post)
 
-贴吧云点赞 (Github)[https://github.com/MoeNetwork/Cloud_Click]
+贴吧云点赞 [Github](https://github.com/MoeNetwork/Cloud_Click)
 
 ## 非官方插件
