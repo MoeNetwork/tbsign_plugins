@@ -4,10 +4,20 @@
 
 如果您是用户，在获取插件时遇到了困难，请查看 [获取说明](https://github.com/MoeNetwork/tbsign_plugins/wiki/获取说明)
 
-## 官方插件
+# 官方插件
 
-贴吧云灌水（作者：无名智者） [Github](https://github.com/MoeNetwork/wmzz_post)
+## 贴吧云灌水
 
-贴吧云点赞（作者：无名智者） [Github](https://github.com/MoeNetwork/Cloud_Click)
+作者：无名智者
 
-## 非官方插件
+实现对百度贴吧对指定帖子的自动灌水。此插件支持VIP功能。
+
+[Github](https://github.com/MoeNetwork/wmzz_post)
+
+## 贴吧云点赞
+
+作者：无名智者
+
+[Github](https://github.com/MoeNetwork/Cloud_Click)
+
+# 非官方插件
