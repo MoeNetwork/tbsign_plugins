@@ -21,3 +21,11 @@
 [Github](https://github.com/MoeNetwork/Cloud_Click)
 
 # 非官方插件
+
+##Adminer数据库管理器
+
+作者：Howard L.
+
+一个超级轻量级的类似于Phpmyadmin的数据库管理器。
+
+[Github](https://github.com/fsgmhoward/ixlab_adminer)
