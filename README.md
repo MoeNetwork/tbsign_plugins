@@ -20,62 +20,6 @@
 
 [Github](https://github.com/MoeNetwork/Cloud_Click)
 
-# 非官方插件
-
-## Adminer数据库管理器
-
-作者：Howard L.
-
-一个超级轻量级的类似于Phpmyadmin的数据库管理器。
-
-[Github](https://github.com/fsgmhoward/ixlab_adminer)
-
-## 自动刷新贴吧列表
-
-作者：Pch18
-
-[Github](https://github.com/chajianku/pch18_relist)
-
-## 百度知道、文库签到
-
-作者：mokeyjay
-
-[Github](https://github.com/chajianku/mok_zdwk)
-
-## 更换背景
-
-作者：mokeyjay
-
-[Github](https://github.com/chajianku/mok_bgimg)
-
-## BDUSS有效性检测
-
-作者：mokeyjay
-
-[Github](https://github.com/chajianku/mok_bduss)
-
-## 签到邮件通知
-
-作者：haotian
-
-[Github](https://github.com/chajianku/haotian_signtz)
-
-## 签到邮件通知（D丶L）
-
-作者：D丶L
-
-每天凌晨发送签到邮件通知给用户。
-
-[Github](https://github.com/chajianku/dl_yjtz)
-
-## 站点多邀请码
-
-作者：D丶L
-
-支持N个邀请码，不支持自定义，如需自定义请自行进入数据库找到dl_invite表进行自定义。
-
-[Github](https://github.com/chajianku/dl_invite)
-
 ## 循环封禁
 
 作者：无名智者
@@ -106,6 +50,123 @@
 
 [Github](https://github.com/chajianku/wmzz_gz)
 
+## 邮件群发
+
+作者：无名智者
+
+群发邮件给所有用户。
+
+[Github](https://github.com/chajianku/wmzz_mailer)
+
+## 多说/友言 社会化评论
+
+作者：无名智者
+
+[Github](https://github.com/chajianku/wmzz_ds)
+
+## 百度静态资源CDN插件
+
+作者：无名智者
+
+使用百度对云签的静态资源进行 CDN 处理，大幅提升加载速度；  
+不支持 HTTPS，使用 HTTPS 的请勿使用本插件。
+
+[Github](https://github.com/chajianku/wmzz_static_cdn)
+
+## 百度知道、文库签到
+
+作者：mokeyjay
+
+[Github](https://github.com/chajianku/mok_zdwk)
+
+## 更换背景
+
+作者：mokeyjay
+
+[Github](https://github.com/chajianku/mok_bgimg)
+
+## BDUSS有效性检测
+
+作者：mokeyjay
+
+[Github](https://github.com/chajianku/mok_bduss)
+
+## 不关注 XX 贴吧不给绑定
+
+作者：mokeyjay
+
+账号没关注指定贴吧且没达到多少级以上就不给你绑定。
+
+[Github](https://github.com/chajianku/mok_follow)
+
+## 数据库自动备份到邮箱
+
+作者：D丶L
+
+本插件可每日将站点的数据库备份到邮箱，你只需设置你的接收邮箱帐号，并将dl_backup计划任务顺序设置为0，每天都会先对站点数据库进行备份并发送到邮箱。
+
+[Github](https://github.com/chajianku/dl_backup)
+
+## 签到邮件通知（D丶L）
+
+作者：D丶L
+
+每天凌晨发送签到邮件通知给用户。
+
+[Github](https://github.com/chajianku/dl_yjtz)
+
+## 站点多邀请码
+
+作者：D丶L
+
+支持N个邀请码，不支持自定义，如需自定义请自行进入数据库找到dl_invite表进行自定义。
+
+[Github](https://github.com/chajianku/dl_invite)
+
+## 找回密码插件
+
+作者：D丶L
+
+[Github](https://github.com/chajianku/dl_zhmm)
+
+## 自定义页面
+
+作者：D丶L
+
+生成独立的自定义页面，可以使用 HTML 代码，你可以自己写上任何你想要写的东西。
+
+[Github](https://github.com/chajianku/dl_pages)
+
+## 花样登录插件
+
+作者：FYY
+
+允许用户使用BDUSS登录。
+
+[Github](https://github.com/chajianku/fyy_newlogin)
+
+# 第三方插件
+
+## Adminer数据库管理器
+
+作者：Howard L.
+
+一个超级轻量级的类似于Phpmyadmin的数据库管理器。
+
+[Github](https://github.com/fsgmhoward/ixlab_adminer)
+
+## 自动刷新贴吧列表
+
+作者：Pch18
+
+[Github](https://github.com/chajianku/pch18_relist)
+
+## 签到邮件通知
+
+作者：haotian
+
+[Github](https://github.com/chajianku/haotian_signtz)
+
 ## 一言
 
 作者：liwanglin12
@@ -122,43 +183,6 @@
 
 [Github](https://github.com/chajianku/lwl12_resign)
 
-## 找回密码插件
-
-作者：D丶L
-
-[Github](https://github.com/chajianku/dl_zhmm)
-
-## 邮件群发
-
-作者：无名智者
-
-群发邮件给所有用户。
-
-[Github](https://github.com/chajianku/wmzz_mailer)
-
-## 多说/友言 社会化评论
-
-作者：无名智者
-
-[Github](https://github.com/chajianku/wmzz_ds)
-
-## 自定义页面
-
-作者：D丶L
-
-生成独立的自定义页面，可以使用 HTML 代码，你可以自己写上任何你想要写的东西。
-
-[Github](https://github.com/chajianku/dl_pages)
-
-## 百度静态资源CDN插件
-
-作者：无名智者
-
-使用百度对云签的静态资源进行 CDN 处理，大幅提升加载速度；  
-不支持 HTTPS，使用 HTTPS 的请勿使用本插件。
-
-[Github](https://github.com/chajianku/wmzz_static_cdn)
-
 ## 开放注册管理
 
 作者：云幻
@@ -167,14 +191,6 @@
 
 [Github](https://github.com/chajianku/reg_supervise)
 
-## 数据库自动备份到邮箱
-
-作者：D丶L
-
-本插件可每日将站点的数据库备份到邮箱，你只需设置你的接收邮箱帐号，并将dl_backup计划任务顺序设置为0，每天都会先对站点数据库进行备份并发送到邮箱。
-
-[Github](https://github.com/chajianku/dl_backup)
-
 ## 登陆注册验证
 
 作者：a395183830
@@ -182,22 +198,6 @@
 在注册或者登陆时要求拖动滑块进行验证，防止恶意注册。
 
 [Github](https://github.com/chajianku/s_check)
-
-## 花样登录插件
-
-作者：FYY
-
-允许用户使用BDUSS登录。
-
-[Github](https://github.com/chajianku/fyy_newlogin)
-
-## 不关注 XX 贴吧不给绑定
-
-作者：mokeyjay
-
-账号没关注指定贴吧且没达到多少级以上就不给你绑定。
-
-[Github](https://github.com/chajianku/mok_follow)
 
 ## 云签防收录插件
 
@@ -222,6 +222,8 @@
 添加一个新页面嵌入多说，任何人可在该页面留言。
 
 [Github](https://github.com/chajianku/weirdoga_dscomment)
+
+# 模板扩展
 
 ## 【模板扩展】Skeumorphism UI 样式
 
