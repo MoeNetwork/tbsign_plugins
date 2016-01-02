@@ -217,6 +217,12 @@
 
 [Github](https://github.com/chajianku/kotori_wblogin)
 
+## 下雪插件
+
+作者：祀画
+
+[Github](https://github.com/zxc135781/sihua_snow)
+
 ## 多说留言板
 
 作者：weirdo4253
