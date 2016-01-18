@@ -231,6 +231,14 @@
 
 [Github](https://github.com/chajianku/weirdoga_dscomment)
 
+## 自定义多邀请码
+
+作者：学园
+
+支持N个邀请码，支持自定义格式邀请码，支持自定义邀请码使用次数。
+
+[Github](https://github.com/MaidGakuen/xy_invite) [Git@OSC](https://git.oschina.net/Gakuen/xy_invite)
+
 # 模板扩展
 
 ## 【模板扩展】Skeumorphism UI 样式
