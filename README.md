@@ -239,6 +239,14 @@
 
 [Github](https://github.com/MaidGakuen/xy_invite) [Git@OSC](https://git.oschina.net/Gakuen/xy_invite)
 
+## 批量导入BDUSS
+
+作者：学园
+
+批量导入BDUSS，养小号再也不麻烦，爆吧者福音。
+
+[Github](https://github.com/MaidGakuen/xy_import) [Git@OSC](http://git.oschina.net/Gakuen/xy_import)
+
 # 模板扩展
 
 ## 【模板扩展】Skeumorphism UI 样式
