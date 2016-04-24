@@ -10,7 +10,7 @@
 
 ## 贴吧云灌水
 
-作者：无名智者
+作者：Kenvix
 
 实现对百度贴吧对指定帖子的自动灌水。此插件支持VIP功能。
 
@@ -18,13 +18,13 @@
 
 ## 贴吧云点赞
 
-作者：无名智者
+作者：Kenvix
 
 [Github](https://github.com/MoeNetwork/Cloud_Click)
 
 ## 循环封禁
 
-作者：无名智者
+作者：Kenvix
 
 可以对指定用户进行循环封禁的插件，支持永久封禁和限时封禁。
 
@@ -32,7 +32,7 @@
 
 ## 密码更改插件
 
-作者：无名智者
+作者：Kenvix
 
 允许用户更改自己的密码。
 
@@ -40,13 +40,13 @@
 
 ## 公告栏
 
-作者：无名智者
+作者：Kenvix
 
 [Github](https://github.com/chajianku/wmzz_anno)
 
 ## GZip 压缩页面
 
-作者：无名智者
+作者：Kenvix
 
 将页面直接 GZip 压缩后传输给用户，可大幅减少流量使用，增加加载速度。
 
@@ -54,7 +54,7 @@
 
 ## 邮件群发
 
-作者：无名智者
+作者：Kenvix
 
 群发邮件给所有用户。
 
@@ -62,13 +62,13 @@
 
 ## 多说/友言 社会化评论
 
-作者：无名智者
+作者：Kenvix
 
 [Github](https://github.com/chajianku/wmzz_ds)
 
 ## 百度静态资源CDN插件
 
-作者：无名智者
+作者：Kenvix
 
 使用百度对云签的静态资源进行 CDN 处理，大幅提升加载速度；  
 不支持 HTTPS，使用 HTTPS 的请勿使用本插件。
@@ -247,11 +247,19 @@
 
 [Github](https://github.com/MaidGakuen/xy_import) [Git@OSC](http://git.oschina.net/Gakuen/xy_import)
 
+## 贴吧云签到管理员密码重置工具
+
+作者：Kenvix
+
+注意这不是插件！本工具仅用于重置贴吧云签到的管理员密码
+
+[Github](https://github.com/kenvix/Tieba-Cloud-Sign-ResetPwd) [Git@OSC](https://git.oschina.net/kenvix/Tieba-Cloud-Sign-ResetPwd)
+
 # 模板扩展
 
 ## 【模板扩展】Skeumorphism UI 样式
 
-作者：无名智者
+作者：Kenvix
 
 此模板为拟物化模板。
 
@@ -259,7 +267,7 @@
 
 ## 【模板扩展】Flat UI 样式
 
-作者：无名智者
+作者：Kenvix
 
 此模板为扁平化模板。
 
@@ -267,7 +275,7 @@
 
 ## 【模板扩展】高仿谷歌扁平样式
 
-作者：无名智者
+作者：Kenvix
 
 [Github](https://github.com/chajianku/wmzz_todcui)
 
